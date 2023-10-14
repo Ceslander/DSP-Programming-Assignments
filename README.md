@@ -2,7 +2,7 @@
 
 Here are the programming assignments of my course Digital Signal and Image Processing. 
 
-These are the scores of them. Clearly everything is not right.
+These are their scores. Note that not everything is right.
 
 |     | Score  |
 |  ----  | ----  |
